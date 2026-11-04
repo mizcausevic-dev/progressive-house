@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ph01,First Horizon,pack-local equal-tempered pitch collection,A,124,4/4,480,32,61440,midi/ph01-first-horizon/ph01-first-horizon-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ph02,Long Rise,pack-local equal-tempered pitch collection,C,124,4/4,480,32,61440,midi/ph02-long-rise/ph02-long-rise-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ph03,Quiet Span,pack-local equal-tempered pitch collection,D#,124,4/4,480,32,61440,midi/ph03-quiet-span/ph03-quiet-span-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ph04,Clear Return,pack-local equal-tempered pitch collection,A#,124,4/4,480,32,61440,midi/ph04-clear-return/ph04-clear-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

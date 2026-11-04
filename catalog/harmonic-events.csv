@@ -1,0 +1,129 @@
+study_id,bar,start_tick,tonic,collection,chord_pitches,intent
+ph01,1,0,A,pack-local equal-tempered pitch collection,45 48 52,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,2,1920,A,pack-local equal-tempered pitch collection,45 48 52,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,3,3840,A,pack-local equal-tempered pitch collection,45 48 52,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,4,5760,A,pack-local equal-tempered pitch collection,45 48 52,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,5,7680,A,pack-local equal-tempered pitch collection,50 53 57,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,6,9600,A,pack-local equal-tempered pitch collection,50 53 57,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,7,11520,A,pack-local equal-tempered pitch collection,50 53 57,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,8,13440,A,pack-local equal-tempered pitch collection,50 53 57,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,9,15360,A,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,10,17280,A,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,11,19200,A,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,12,21120,A,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,13,23040,A,pack-local equal-tempered pitch collection,52 55 59,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,14,24960,A,pack-local equal-tempered pitch collection,52 55 59,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,15,26880,A,pack-local equal-tempered pitch collection,52 55 59,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,16,28800,A,pack-local equal-tempered pitch collection,52 55 59,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,17,30720,A,pack-local equal-tempered pitch collection,45 48 52,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,18,32640,A,pack-local equal-tempered pitch collection,45 48 52,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,19,34560,A,pack-local equal-tempered pitch collection,45 48 52,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,20,36480,A,pack-local equal-tempered pitch collection,45 48 52,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,21,38400,A,pack-local equal-tempered pitch collection,50 53 57,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,22,40320,A,pack-local equal-tempered pitch collection,50 53 57,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,23,42240,A,pack-local equal-tempered pitch collection,50 53 57,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,24,44160,A,pack-local equal-tempered pitch collection,50 53 57,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,25,46080,A,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,26,48000,A,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,27,49920,A,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,28,51840,A,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,29,53760,A,pack-local equal-tempered pitch collection,52 55 59,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,30,55680,A,pack-local equal-tempered pitch collection,52 55 59,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,31,57600,A,pack-local equal-tempered pitch collection,52 55 59,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph01,32,59520,A,pack-local equal-tempered pitch collection,52 55 59,A gradual harmonic arc with restrained thematic change. Initial cell establishes the material.
+ph02,1,0,C,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,2,1920,C,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,3,3840,C,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,4,5760,C,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,5,7680,C,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,6,9600,C,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,7,11520,C,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,8,13440,C,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,9,15360,C,pack-local equal-tempered pitch collection,55 58 62,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,10,17280,C,pack-local equal-tempered pitch collection,55 58 62,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,11,19200,C,pack-local equal-tempered pitch collection,55 58 62,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,12,21120,C,pack-local equal-tempered pitch collection,55 58 62,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,13,23040,C,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,14,24960,C,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,15,26880,C,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,16,28800,C,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,17,30720,C,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,18,32640,C,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,19,34560,C,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,20,36480,C,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,21,38400,C,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,22,40320,C,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,23,42240,C,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,24,44160,C,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,25,46080,C,pack-local equal-tempered pitch collection,55 58 62,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,26,48000,C,pack-local equal-tempered pitch collection,55 58 62,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,27,49920,C,pack-local equal-tempered pitch collection,55 58 62,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,28,51840,C,pack-local equal-tempered pitch collection,55 58 62,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,29,53760,C,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,30,55680,C,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,31,57600,C,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph02,32,59520,C,pack-local equal-tempered pitch collection,48 51 55,A gradual harmonic arc with restrained thematic change. Statement introduces a different contour.
+ph03,1,0,D#,pack-local equal-tempered pitch collection,54 57 61,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,2,1920,D#,pack-local equal-tempered pitch collection,54 57 61,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,3,3840,D#,pack-local equal-tempered pitch collection,54 57 61,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,4,5760,D#,pack-local equal-tempered pitch collection,54 57 61,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,5,7680,D#,pack-local equal-tempered pitch collection,58 61 65,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,6,9600,D#,pack-local equal-tempered pitch collection,58 61 65,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,7,11520,D#,pack-local equal-tempered pitch collection,58 61 65,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,8,13440,D#,pack-local equal-tempered pitch collection,58 61 65,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,9,15360,D#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,10,17280,D#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,11,19200,D#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,12,21120,D#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,13,23040,D#,pack-local equal-tempered pitch collection,56 59 63,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,14,24960,D#,pack-local equal-tempered pitch collection,56 59 63,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,15,26880,D#,pack-local equal-tempered pitch collection,56 59 63,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,16,28800,D#,pack-local equal-tempered pitch collection,56 59 63,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,17,30720,D#,pack-local equal-tempered pitch collection,54 57 61,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,18,32640,D#,pack-local equal-tempered pitch collection,54 57 61,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,19,34560,D#,pack-local equal-tempered pitch collection,54 57 61,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,20,36480,D#,pack-local equal-tempered pitch collection,54 57 61,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,21,38400,D#,pack-local equal-tempered pitch collection,58 61 65,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,22,40320,D#,pack-local equal-tempered pitch collection,58 61 65,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,23,42240,D#,pack-local equal-tempered pitch collection,58 61 65,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,24,44160,D#,pack-local equal-tempered pitch collection,58 61 65,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,25,46080,D#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,26,48000,D#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,27,49920,D#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,28,51840,D#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,29,53760,D#,pack-local equal-tempered pitch collection,56 59 63,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,30,55680,D#,pack-local equal-tempered pitch collection,56 59 63,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,31,57600,D#,pack-local equal-tempered pitch collection,56 59 63,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph03,32,59520,D#,pack-local equal-tempered pitch collection,56 59 63,A gradual harmonic arc with restrained thematic change. Contrast moves the accent map.
+ph04,1,0,A#,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,2,1920,A#,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,3,3840,A#,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,4,5760,A#,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,5,7680,A#,pack-local equal-tempered pitch collection,46 49 53,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,6,9600,A#,pack-local equal-tempered pitch collection,46 49 53,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,7,11520,A#,pack-local equal-tempered pitch collection,46 49 53,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,8,13440,A#,pack-local equal-tempered pitch collection,46 49 53,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,9,15360,A#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,10,17280,A#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,11,19200,A#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,12,21120,A#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,13,23040,A#,pack-local equal-tempered pitch collection,49 52 56,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,14,24960,A#,pack-local equal-tempered pitch collection,49 52 56,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,15,26880,A#,pack-local equal-tempered pitch collection,49 52 56,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,16,28800,A#,pack-local equal-tempered pitch collection,49 52 56,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,17,30720,A#,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,18,32640,A#,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,19,34560,A#,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,20,36480,A#,pack-local equal-tempered pitch collection,53 56 60,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,21,38400,A#,pack-local equal-tempered pitch collection,46 49 53,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,22,40320,A#,pack-local equal-tempered pitch collection,46 49 53,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,23,42240,A#,pack-local equal-tempered pitch collection,46 49 53,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,24,44160,A#,pack-local equal-tempered pitch collection,46 49 53,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,25,46080,A#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,26,48000,A#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,27,49920,A#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,28,51840,A#,pack-local equal-tempered pitch collection,51 54 58,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,29,53760,A#,pack-local equal-tempered pitch collection,49 52 56,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,30,55680,A#,pack-local equal-tempered pitch collection,49 52 56,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,31,57600,A#,pack-local equal-tempered pitch collection,49 52 56,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
+ph04,32,59520,A#,pack-local equal-tempered pitch collection,49 52 56,A gradual harmonic arc with restrained thematic change. Return keeps the identity while changing one placement.
