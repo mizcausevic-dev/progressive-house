@@ -1,0 +1,26 @@
+{
+  "title": "Progressive House",
+  "study": "ph01",
+  "bpm": 124,
+  "source_audio": "preview/progressive-house-simple-synth-preview.mp3",
+  "source_audio_sha256": "99235f8a4f83a994a32748050a2792ac115d9573dd37bb1039d408d8a413432c",
+  "source_midi": "midi/ph01-first-horizon/ph01-first-horizon-combined.mid",
+  "source_midi_sha256": "d54f43c60a89665d3dd7af7ee1a3cfd8c6aeff65abb8835657a3ac4e7a138dbb",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "07052e2b637af0d15ac360fe02d78b6747fedf4a9101739631f70397119d0876",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "a05d955a89d2d41de9e91becb6ffc5593e15e89fa5037af9e251d0eb9eb43a93",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "0de138fe99ca8c9412abc701a4ecfadca35134489d6c3693eea944e1e5b783f8",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
