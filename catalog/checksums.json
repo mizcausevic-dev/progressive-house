@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3166,
+      "sha256": "182f02c9aae58cd1ab22cbaf4e4f11f510161756f97bdccf865d81336164e7f7"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -38,8 +48,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1566,
-      "sha256": "a1e358decf24a9728ff1a7f2158d221c8a1cd973e95741f7c3a578260cc2dc86"
+      "bytes": 1788,
+      "sha256": "d7cd6dc7ab7d7709be0a09d90ac2e2d2344b32bbb29c783d18358c2fe9330cd6"
     },
     {
       "path": "catalog/release-spec.json",
@@ -73,8 +83,8 @@
     },
     {
       "path": "downloads/progressive-house-midi.zip",
-      "bytes": 24553,
-      "sha256": "886df553bddfe82e7b93a515b55f753ac049894c5dc6326cd57f1abc32c704dc"
+      "bytes": 25592,
+      "sha256": "3e106d0f88388cd5a65d703b4200c3b7be8c57ba0b44328ed53f8a08e0f9138b"
     },
     {
       "path": "index.html",
@@ -223,18 +233,13 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1051,
-      "sha256": "54e32fe7ffa56e9eb9d42133ea7ed0e47a895e310d16580b18a0346ccdf45e8e"
+      "bytes": 1134,
+      "sha256": "8fe8182b34ee3a3ba76f9b3e21befc7bf4a240f90d1fe22854bcccc8585d267f"
     },
     {
       "path": "preview/progressive-house-simple-synth-preview.mp3",
       "bytes": 1500308,
       "sha256": "99235f8a4f83a994a32748050a2792ac115d9573dd37bb1039d408d8a413432c"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3005,
-      "sha256": "c41806d1e274085357e82e274c361fbf7653187d50489fd6c0f23c5322292e85"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -248,13 +253,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 54866,
-      "sha256": "06196196b6f5a4f8deb83b945619c6d8847d2439cac8636d376195b28ebe792f"
+      "bytes": 55043,
+      "sha256": "bf66b15904a8ffe6d9106669edd6670cc41fa3640db30691cf431832fe1f8772"
     },
     {
       "path": "tools/validate_release.py",
