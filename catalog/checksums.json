@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 788,
-      "sha256": "52d425b8c9b3f326102c4e87c8a4746124e2b893a40c2c7560dc1a35096e4c72"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3166,
-      "sha256": "182f02c9aae58cd1ab22cbaf4e4f11f510161756f97bdccf865d81336164e7f7"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -88,8 +73,8 @@
     },
     {
       "path": "downloads/progressive-house-midi.zip",
-      "bytes": 25592,
-      "sha256": "3e106d0f88388cd5a65d703b4200c3b7be8c57ba0b44328ed53f8a08e0f9138b"
+      "bytes": 26579,
+      "sha256": "15503343464f1e1c92e75d64aac9c3917e4a3508f0ee0174daa1abd4c67a59ff"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -123,8 +108,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9267,
-      "sha256": "17b681ad63f98ddbc518b478d6da8407b1d0c7b0c38eb5b4c87201461360f708"
+      "bytes": 9457,
+      "sha256": "6c85c6439a37864bb6115132ac6cf58e49ec2cacd93d27bf9514a7a0043a35b7"
     },
     {
       "path": "midi/ph01-first-horizon/chord_pulse.mid",
@@ -267,6 +252,16 @@
       "sha256": "965b9d4cdd7087f1aeb1264b0df841ea2d635e6aeb2e4a5d2ec2497c45de8609"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 788,
+      "sha256": "52d425b8c9b3f326102c4e87c8a4746124e2b893a40c2c7560dc1a35096e4c72"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1134,
       "sha256": "8fe8182b34ee3a3ba76f9b3e21befc7bf4a240f90d1fe22854bcccc8585d267f"
@@ -275,6 +270,16 @@
       "path": "preview/progressive-house-simple-synth-preview.mp3",
       "bytes": 1500308,
       "sha256": "99235f8a4f83a994a32748050a2792ac115d9573dd37bb1039d408d8a413432c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3281,
+      "sha256": "b97718cd6e2c8145a0da263aa445c11fd8de174c299da695eca7e609632ae798"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
